@@ -5,8 +5,6 @@
 
 ### Interactive Dashboards
 
-**Figure 1: Dashboard Wireframe**
-
 1. **Highlight Card**  
    - Displays high-level KPIs for the selected period vs. the latest fiscal period.  
    - Conditional formatting:  
