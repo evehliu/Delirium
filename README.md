@@ -98,7 +98,7 @@
 
 ---
 
-## 🧠 How I Structure and Present Analytical Findings
+## 🧠 How Analytical Findings Are Structured and Presented 
 
 ### Clear Hierarchy & Layout
 - **Sections**:  
@@ -116,7 +116,7 @@
 
 ---
 
-## 🧑‍💻 My Approach to Making Data Accessible and Actionable
+## 🧑‍💻 The Approach to Making Data Accessible and Actionable
 
 ### User-Centered Design
 - Tailored for clinical, operational, and quality stakeholders  
