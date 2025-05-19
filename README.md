@@ -1,5 +1,5 @@
 
-# Delirium Dashboard Portfolio
+# Delirium Dashboard
 
 ## 📊 Types of Data Visualizations
 
