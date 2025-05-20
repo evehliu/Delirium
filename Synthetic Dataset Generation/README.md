@@ -55,6 +55,7 @@ Generate a fully synthetic dataset (no real patient data) for a Power BI dashboa
 |---------------------|-------------|
 | `CAMDateTime`       | Timestamp of the first CAM assessment after admission (`CAM=0`, `1`, or `2`); must not be null |
 | `DateTimeSuspected` | Timestamp of first `CAM=1` that is immediately followed by `CAM=2`; must be the same or later than `CAMDateTime` |
+| `AcquiredUnit` | Unit where the patient was located when `CAM=1` was recorded for a confirmed delirium episode. Format: `FacID` + unit code (e.g., `H001-2B`) |
 | `AvgDeliriumDaysInHr` | Average duration in hours (2 decimals) across all 3 episodes (`0` if none) |
 
 ---
