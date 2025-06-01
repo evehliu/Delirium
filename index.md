@@ -5,7 +5,7 @@
 This project aims to improve early detection and intervention for patients at risk of delirium using AI and real-time EHR data.
 
 ### 📁 Explore the Repository
-- 📄 [README](https://evehliu.github.io/Delirium/README.md/)
+- 📄 [README](https://github.com/evehliu/Delirium/blob/main/README.md)
 - 📊 [Dashboard](https://evehliu.github.io/Delirium/Dashboard/)
 - 🧪 [Synthetic Dataset](https://evehliu.github.io/Delirium/Synthetic%20Dataset/)
 
