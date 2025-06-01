@@ -23,5 +23,5 @@ Enabled proactive, non-drug interventions and improved patient safety.
 | Agile Methodology       | 🧭  | Iterative Project Management    |
 | Stakeholder Engagement  | 🤝  | Communication & Collaboration   |
 
-### :octocat: GitHub Repository
+### GitHub Repository
 https://github.com/evehliu/Delirium
