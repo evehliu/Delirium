@@ -1,10 +1,10 @@
 
 # Delirium: Proactive Intervention
 
-![Project Image Placeholder](project_image.png)
+USE TH!Dashboard Preview
 
 ## GitHub Repository
-[GitHub Link Placeholder](https://github.com/your-repo-link)
+https://github.com/evehliu/Delirium
 
 ## About This Project
 
