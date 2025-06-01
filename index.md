@@ -15,5 +15,5 @@ This project aims to improve early detection and intervention for patients at ri
 - 📊 [Dashboard](https://evehliu.github.io/Delirium/Dashboard/)
 - 🧪 [Synthetic Dataset](https://evehliu.github.io/Delirium/Synthetic%20Dataset/)
 
-### GitHub Repository
+### :octocat: GitHub Repository
 https://github.com/evehliu/Delirium
