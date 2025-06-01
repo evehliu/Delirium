@@ -1,6 +1,6 @@
 
 # Delirium: Proactive Intervention
-!Dashboard Preview
+![Dashboard Preview](asset/dashboard_preview.png)
 
 ## GitHub Repository
 https://github.com/evehliu/Delirium
