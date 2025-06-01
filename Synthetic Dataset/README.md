@@ -154,7 +154,7 @@ This synthetic dataset was created to support a Power BI dashboard focused on su
 
 ## How to Reproduce the Datasets
 
-To reproduce the synthetic patient datasets, you can use the provided Python script `generate_datasets.py`. This script generates the `EDMADMCombined`, `Delirium`, and `DeliriumAI` datasets based on the specifications outlined above.
+To reproduce the synthetic patient datasets, you can use the provided Python script 🐍 `generate_datasets.py`. This script generates the 📊 `EDMADMCombined`, 📊 `Delirium`, and 📊 `DeliriumAI` datasets based on the specifications outlined above.
 
 ### Steps:
 
