@@ -83,10 +83,7 @@ The purpose of these datasets is to provide a realistic simulation of patient da
 
 ## Conclusion
 
-These synthetic datasets provide a realistic simulation of patient data for analyzing delirium and related metrics. They are designed to be used in Power BI projects to create insightful visualizations and predictive models.
-
-Feel free to explore, analyze, and build upon these datasets for your Power BI projects!
+These synthetic datasets provide a realistic simulation of patient data for analyzing delirium and related metrics. 
+They are designed to be used in Power BI projects to create insightful visualizations and predictive models 📊.
 
 ---
-
-Happy analyzing! 📊
