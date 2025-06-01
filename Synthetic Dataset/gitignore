@@ -1,0 +1,36 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+env/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Python virtual environment
+*.egg-info/
+*.egg
+
+# Large data files (optional)
+*.csv
+
+# Ignore generated datasets if you only want to keep the script
+# Delirium.csv
+# DeliriumAI.csv
+# EDMADMCombined.csv
