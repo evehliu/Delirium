@@ -131,10 +131,21 @@ Generate a fully synthetic dataset (no real patient data) for a Power BI dashboa
 
 1. **Import the CSV files** into Power BI.
 2. **Create relationships** between the tables using the `URN` column.
-3. **Design visuals** to summarize and analyze the data, such as:
+3. **Design visuals** to analyze delirium metrics, predict risk, and explore patient data such as:
    - Number of patients with confirmed delirium.
    - Average duration of delirium episodes.
    - Distribution of patients across different units and age groups.
    - Impact of contributing medications on delirium episodes.
 
-Feel free to customize the visuals and analysis based on your specific requirements.
+## Example Visuals
+
+- **Delirium Incidence**: Visualize the number of patients with confirmed delirium episodes.
+- **Risk Prediction**: Analyze the accuracy of AI predictions for delirium risk.
+- **Length of Stay**: Explore the length of stay for patients with and without delirium.
+
+## Conclusion
+
+These synthetic datasets provide a realistic simulation of patient data for analyzing delirium and related metrics. 
+They are designed to be used in Power BI projects to create insightful visualizations and predictive models 📊.
+
+---
