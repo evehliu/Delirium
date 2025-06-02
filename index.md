@@ -1,4 +1,4 @@
-## Welcome to Project Delirium: Proactive Intervention
+## Welcome to The Delirium Project
 ![Dashboard Preview](assets/dashboard_preview.png)
 
 ## Purpose
