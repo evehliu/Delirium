@@ -13,7 +13,7 @@ Enabled proactive, non-drug interventions and improved patient safety.
 
 ### Explore the Repository
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="24"> Dashboard
-  - 📄 [README](https://github.com/evehliu/Delirium/blob/main/README.md)
+  - 📄 [README](https://github.com/evehliu/Delirium/blob/main/Dashboard/README.md)
   - 📁 PBIX Folder
   - 🖼️ [Screenshots](assets/dashboard_preview.png)
 - 🧪 Synthetic Dataset
