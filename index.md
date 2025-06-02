@@ -12,7 +12,7 @@ This project aims to improve early detection and intervention for patients at ri
 ## Impact
 Enabled proactive, non-drug interventions and improved patient safety.
 
-### Explore the Repository
+## Explore the Repository
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="24"> Dashboard
   - 📄 [README](https://github.com/evehliu/Delirium/blob/main/Dashboard/README.md)
   - 📁 PBIX Folder
@@ -22,9 +22,6 @@ Enabled proactive, non-drug interventions and improved patient safety.
   - 🐍 [Python Script](https://github.com/evehliu/Delirium/blob/main/Synthetic%20Dataset/generate_datasets.py)
   - 📊 [Sample Data](https://github.com/evehliu/Delirium/tree/main/Synthetic%20Dataset/Sample%20Data)
     
-## GitHub Repository 
-https://github.com/evehliu/Delirium
-
 ## Tools & Skills Used
 
 | Icon                                                                                     | Tool/Skill             | Description                     |
@@ -34,3 +31,6 @@ https://github.com/evehliu/Delirium
 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Etl-process.svg" alt="ETL" width="48"> | ETL/ELT                | Data Integration Techniques     |
 |  🧭                                                             | Agile Methodology      | Iterative Project Management    |
 |  🤝                                                              | Stakeholder Engagement | Communication & Collaboration   |
+
+## GitHub Repository 
+https://github.com/evehliu/Delirium
