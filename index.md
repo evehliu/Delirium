@@ -22,14 +22,14 @@ Enabled proactive, non-drug interventions and improved patient safety.
   - 📊 [Sample Data](https://github.com/evehliu/Delirium/tree/main/Synthetic%20Dataset/Sample%20Data)
     
 ## GitHub Repository 
-:octocat: https://github.com/evehliu/Delirium
+https://github.com/evehliu/Delirium
 
 ## Tools & Skills Used
 
 | Icon                                                                                     | Tool/Skill             | Description                     |
 |------------------------------------------------------------------------------------------|------------------------|---------------------------------|
-| <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQL_Image.svg" alt="SQL" width="24"></div> | SQL                    | Structured Query Language       |
-| <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="24"></div> | Power BI               | Business Intelligence Tool      |
-| <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Etl-process.svg" alt="ETL" width="48"></div> | ETL/ELT                | Data Integration Techniques     |
-| <div align="center">🧭</div>                                                              | Agile Methodology      | Iterative Project Management    |
-| <div align="center">🤝</div>                                                              | Stakeholder Engagement | Communication & Collaboration   |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQL_Image.svg" alt="SQL" width="24">| SQL                    | Structured Query Language       |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="24"> | Power BI               | Business Intelligence Tool      |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Etl-process.svg" alt="ETL" width="48"> | ETL/ELT                | Data Integration Techniques     |
+|  🧭                                                             | Agile Methodology      | Iterative Project Management    |
+|  🤝                                                              | Stakeholder Engagement | Communication & Collaboration   |
