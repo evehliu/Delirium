@@ -2,7 +2,11 @@
 ![Dashboard Preview](assets/dashboard_preview.png)
 
 ## Purpose
-This project aims to improve early detection and intervention for patients at risk of delirium using AI and real-time EHR data.
+Delirium is a widespread and underrecognized medical emergency. It affects up to **80% of ICU patients**, **15–25% of hospitalized elderly patients**, and **6–30% of non-ICU patients** overall. Despite its prevalence, it often goes undetected until it causes serious harm—prolonging hospital stays, increasing mortality, and leading to long-term cognitive decline. 
+
+Every missed case of delirium is a missed opportunity for prevention and recovery. The Delirium Project uses machine learning and EHR data to predict risk early—offering a scalable, proactive solution to a persistent clinical blind spot.
+
+---
 
 ## Key Features
 - Real-time risk flagging using EHR data and AI prediction
@@ -12,10 +16,11 @@ This project aims to improve early detection and intervention for patients at ri
 ## Impact
 Enabled proactive, non-drug interventions and improved patient safety.
 
+
 ## GitHub Repository 
 https://github.com/evehliu/Delirium
 
-### Explore the Repository
+## Explore the Repository
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="24"> Dashboard
   - 📄 [README](https://github.com/evehliu/Delirium/blob/main/Dashboard/README.md)
   - 📁 PBIX Folder
