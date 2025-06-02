@@ -1,4 +1,5 @@
 ## Welcome to Project Delirium: Proactive Intervention
+![Dashboard Preview](assets/dashboard_preview.png)
 
 ## Purpose
 This project aims to improve early detection and intervention for patients at risk of delirium using AI and real-time EHR data.
@@ -15,7 +16,7 @@ Enabled proactive, non-drug interventions and improved patient safety.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="24"> Dashboard
   - 📄 [README](https://github.com/evehliu/Delirium/blob/main/Dashboard/README.md)
   - 📁 PBIX Folder
-  - 🖼️ [Screenshots](assets/dashboard_preview.png)
+  - 🖼️ Screenshots
 - 🧪 Synthetic Dataset
   - 📚 [Dataset Documentation](https://github.com/evehliu/Delirium/blob/main/Synthetic%20Dataset/README.md)
   - 🐍 [Python Script](https://github.com/evehliu/Delirium/blob/main/Synthetic%20Dataset/generate_datasets.py)
