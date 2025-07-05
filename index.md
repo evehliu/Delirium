@@ -1,10 +1,12 @@
-## Welcome to The Delirium Project
+## The Delirium Project
 ![Dashboard Preview](assets/dashboard_preview.png)
 
 ## Purpose
 Delirium is a widespread and underrecognized medical emergency. It affects up to **80% of ICU patients**, **15–25% of hospitalized elderly patients**, and **6–30% of non-ICU patients** overall. Despite its prevalence, it often goes undetected until it causes serious harm—prolonging hospital stays, increasing mortality, and leading to long-term cognitive decline. 
 
-Every missed case of delirium is a missed opportunity for prevention and recovery. The Delirium Project uses machine learning and EHR data to predict risk early—offering a scalable, proactive solution to a persistent clinical blind spot.
+Every missed case of delirium is a missed opportunity for prevention and recovery. 
+
+The Delirium Project uses machine learning and EHR data to predict risk early—offering a scalable, proactive solution to a persistent clinical blind spot.
 
 ---
 
